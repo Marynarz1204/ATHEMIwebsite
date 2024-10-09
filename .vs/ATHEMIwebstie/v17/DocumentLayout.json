@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebsite.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebsite.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebsite.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebsite.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebsite.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebsite.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\views\\dogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:views\\dogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\views\\dogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:views\\dogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\services\\dogdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:services\\dogdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|c:\\users\\micha\\desktop\\projektydocv\\athemiwebsite\\athemiwebstie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8250110C-1C81-411C-9316-378BF64CA4E4}|ATHEMIwebstie.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-09T21:25:19.454Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T15:51:28.706Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T17:13:24.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T15:51:19.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-09T21:27:57.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaylistController.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Controllers\\PlaylistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlaylistController.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Controllers\\PlaylistController.cs",
+              "RelativeToolTip": "Controllers\\PlaylistController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:51:03.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\Dogs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dogs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\Dogs\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Dogs\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T14:52:51.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\Dogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dogs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\Dogs\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dogs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T14:52:28.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DogDBService.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Services\\DogDBService.cs",
+              "RelativeDocumentMoniker": "Services\\DogDBService.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Services\\DogDBService.cs",
+              "RelativeToolTip": "Services\\DogDBService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:12:14.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:42:43.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Models\\Playlist.cs",
+              "RelativeDocumentMoniker": "Models\\Playlist.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Models\\Playlist.cs",
+              "RelativeToolTip": "Models\\Playlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:33:29.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Models\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Models\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Models\\MongoDBSettings.cs",
+              "RelativeToolTip": "Models\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:48.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T14:43:38.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:10:07.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:53.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Services\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "Services\\MongoDBService.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Services\\MongoDBService.cs",
+              "RelativeToolTip": "Services\\MongoDBService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:29:20.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T15:51:15.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\ProjektyDoCV\\ATHEMIwebsite\\ATHEMIwebstie\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T15:51:16.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
